@@ -1,0 +1,7 @@
+admin1:John:Management System Admin:admin@mail.com:012123123
+trainer1:name:jobtitle:email:contact
+bren01:Brendan:status:Data Analytics:Nov,2023
+jerry01:Jerry:status:course:year
+trainer2:name:jobtitle:email:contact
+lecturer1:Thomas:jobtitle:email:contact
+new_trainer:Tony:jobtitle:email:contact

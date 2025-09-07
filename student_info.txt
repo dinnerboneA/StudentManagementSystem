@@ -1,0 +1,5 @@
+bren01:Brendan Lai:123123:bren@mail.com:0122222222:June:Beginner,Python;Intermediate,Java
+jerry01:Jerry:456456:jerry@mail.com:012345677:June:Beginner,Python;Advance,C#
+new_student:John:555555:john@mail.com:012345678:January:Intermediate,C++
+tommy01:Tommy:123123:tommy@mail.com:012345677:December:Advance,C++
+jason01:Jason Tan:555666:jason@mail.com:012345678:March:

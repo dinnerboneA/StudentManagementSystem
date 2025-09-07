@@ -1,0 +1,11 @@
+admin:admin1:asdasd
+trainer:trainer1:asdasd
+lecturer:lecturer1:asdasd
+student:bren01:asdasd
+student:jerry01:asdasd
+trainer:trainer2:asdasd
+trainer:new_trainer:asdasd
+student:new_student:asdasd
+student:tommy01:asdasd
+trainer:trainer5:asdasd
+student:jason01:asdasd
